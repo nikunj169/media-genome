@@ -11,7 +11,7 @@ def analyze_video_intent(platform_name):
     print(f"🤖 [REAL AI] Processing {platform_name} video...")
 
     try:
-        # 🔥 TEMP HARD-CODED INPUT (for demo)
+        
         video_path = "videos/edited_clip.mp4"
         caption = "Watch full match HD link in bio"
         views = 50000
