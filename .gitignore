@@ -7,5 +7,5 @@ db.sqlite3
 # Environment variables (secrets)
 .env
 
-firebase-key.json
+backend/firebase-key.json
 
